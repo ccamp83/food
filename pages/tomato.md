@@ -9,3 +9,4 @@ title: tomato
 ## [[iron]]
 ## [[vitamin B-6]]
 ## [[magnesium]]
+## [[spinach]]
