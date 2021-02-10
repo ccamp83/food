@@ -7,4 +7,4 @@ title: kale
 ## [[vitamin A]]
 ## [[calcium]]
 ## [[iron]]
-##
+## [[vitamin B-6]]
