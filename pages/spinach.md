@@ -6,4 +6,6 @@ title: spinach
 
 ## [[iron]]
 ## [[folate]]
-##
+## [[vitamin A]]
+## [[magnesium]]
+## [[potassium]]
