@@ -6,4 +6,5 @@ title: parsnip
 
 ## [[vitamin C]]
 ## [[iron]]
-##
+## [[vitamin B-6]]
+## [[magnesium]]
